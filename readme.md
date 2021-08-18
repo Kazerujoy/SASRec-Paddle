@@ -8,3 +8,6 @@
 paddle项目地址： https://aistudio.baidu.com/aistudio/projectdetail/2279989
 
 结果： 使用 原文中结构和参数，在ml-1m数据集上训练601 epoch in 1021s average: 1.7s/epoch ，准确率：NDCG@10: 0.5912, HR@10: 0.8315 符合原文结果，模型参数保存在ml-1m文件夹中
+
+![11111](https://user-images.githubusercontent.com/41670588/129905810-181efa9d-cf36-4054-b0a1-e574970a26f6.png)
+
