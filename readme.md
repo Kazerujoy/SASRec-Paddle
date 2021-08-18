@@ -4,3 +4,5 @@
  数据集： https://grouplens.org/datasets/movielens
  
  要求： Hit Rate@10(Recall@10; Precision@10) andNDCG@10
+
+paddle项目地址： https://aistudio.baidu.com/aistudio/projectdetail/2279989
